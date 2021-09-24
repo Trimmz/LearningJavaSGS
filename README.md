@@ -1,1 +1,1 @@
-# LearningJavaSGS
+OK so basically, to get started with Java, you need to install this IDE (Integrated Developement Environment) called IntelliJ IDE. It is similar to Codeblocks but is designed for Java. Any projects you do, even if they are as little as a hello world or as big as a game, please upload them here. If you have any problems, please use the Issues tab to ask for help.
